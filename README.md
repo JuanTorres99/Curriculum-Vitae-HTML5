@@ -2,3 +2,5 @@
 pagina web , que funciona como mi hoja de vida
 
 desarrollar con html5,cc3,javascript, ink como framework.
+
+rep dom, santo domingo.
