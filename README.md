@@ -1,6 +1,5 @@
-# my_page_web
-pagina web , que funciona como mi hoja de vida
+# Curriculum Vitae 
 
-desarrollar con html5,cc3,javascript, ink como framework.
+Desarrollar con el framework Bootstrap HTML5 y CSS3.
 
-rep dom, santo domingo...0000
+Power by Junior Design.
